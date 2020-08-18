@@ -1,4 +1,5 @@
 # springmvc5-hibernate5-criteria-jsp-mysql-crm
+#import project ->create a schema with name "customer_crud" in mysql
 #have used hibernate 5 Criteria 
 This is springmvc based CRM project for customer having following functionality:
 1)Add
